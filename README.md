@@ -1,6 +1,3 @@
-Berikut adalah versi yang telah di-_improve_ dari README Anda. Saya fokus pada bagian **langkah-langkah instalasi**, menjadikannya lebih ramah untuk pemula, dengan penjelasan tambahan dan format yang lebih rapi:
-
----
 
 # 📚 AoBook - Aplikasi Manajemen Buku
 
