@@ -136,5 +136,3 @@ http://127.0.0.1:8000
 -   **Website**: [aogung.com](https://aogung.com)
 
 ---
-
-Jika Anda ingin, saya juga bisa bantu membuatkan badge README (misalnya Laravel version, license, GitHub stars) atau menambahkan instruksi deployment ke hosting seperti Railway, Vercel, atau Shared Hosting.
